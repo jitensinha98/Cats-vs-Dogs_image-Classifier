@@ -17,7 +17,6 @@ python3 generate_labels.py
 ```
 ## Modules Used
 - Keras
-- scikit-learn
 - numpy
 - pandas
 - opencv
