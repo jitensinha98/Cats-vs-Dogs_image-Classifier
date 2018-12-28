@@ -21,6 +21,7 @@ python3 generate_labels.py
 - pandas
 - opencv
 - matplotlib
+- random
 - tqdm
 
 ## Images 
