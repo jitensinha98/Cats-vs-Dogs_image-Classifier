@@ -24,6 +24,9 @@ python3 generate_labels.py
 - matplotlib
 - tqdm
 
+## Result
+![picture](Result.png)
+
 ## Images 
  ![picture](Figure_1.png)
 
