@@ -24,11 +24,11 @@ python3 generate_labels.py
 - matplotlib
 - tqdm
 
-## Result
-![picture](Result.png)
-
 ## Images 
  ![picture](Figure_1.png)
+ 
+ ## Result
+![picture](Result.png)
 
 ## Author
 - Jiten Sinha -[LinkedIn](https://www.linkedin.com/in/jiten-sinha-131043159/)
